@@ -1,5 +1,5 @@
 
-# Martin Schneider
+# ✨Martin Schneider✨
 
 > ### Hi there 👋
 
@@ -16,7 +16,7 @@
 <details>
   <summary>What im doing?</summary>
 
-  -  Webdevelopment Frontend
+  -  🌱 Webdevelopment Frontend
 </details>
 
 
