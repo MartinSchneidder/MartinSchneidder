@@ -1,4 +1,24 @@
-### Hi there 👋
+
+# Martin Schneider
+
+> ### Hi there 👋
+
+  *- Martin Schneider*
+  
+<details>
+<summary>Hobbys</summary>  
+  
+-  Volleyball
+-  Games
+-  Schwimmen
+</details>
+
+<details>
+  <summary>What im doing?</summary>
+
+  -  Webdevelopment Frontend
+</details>
+
 
 <!--
 **MartinSchneidder/MartinSchneidder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
