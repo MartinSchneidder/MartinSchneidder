@@ -1,16 +1,25 @@
 
 # ✨Martin Schneider✨
 
-> ### Hi there 👋
+Hi there,
+Currently i am  working on my skills in Webdevelopment, @bootscampsEuropa 🧙
 
-  *- Martin Schneider*
-  
+- CSS ++
+- JavaScript +++
+- Vue +
+
+If you are searching for a fresh Webdeveloper and/or got other questions feel free to contact me.
+
+[Contact Me](mailto:schnmart86@gmail.com)
+
+## Personal Stuff:
+
 <details>
-<summary>Hobbys</summary>  
-  
+<summary>Hobbys</summary>
+
 -  Volleyball
 -  Games
--  Schwimmen
+-  Swimming
 </details>
 
 <details>
