@@ -6,11 +6,14 @@ Currently i am  working on my skills in Webdevelopment, @bootscampsEuropa 🧙
 
 - CSS ++
 - JavaScript +++
-- Vue +
+- Vue ++
+- php +
 
-If you are searching for a fresh Webdeveloper and/or got other questions feel free to contact me.
+If you are searching for a Junior Webdeveloper or got other questions feel free to contact me.
 
-[Contact Me](mailto:schnmart86@gmail.com)
+[Contact Me](mailto:schnmart@hotmail.de)
+
+At the moment i am working on some Gamification Features for Websites.
 
 ## Personal Stuff:
 
@@ -25,7 +28,7 @@ If you are searching for a fresh Webdeveloper and/or got other questions feel fr
 <details>
   <summary>What im doing?</summary>
 
-  -  🌱 Webdevelopment Frontend
+  -  🌱 Webdevelopment
 </details>
 
 
