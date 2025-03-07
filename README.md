@@ -2,14 +2,14 @@
 # ✨Martin Schneider✨
 
 Hi there,
-Currently i am  working on my skills in Webdevelopment, @bootscampsEuropa 🧙
+Currently i am  working on my skills in Webdevelopment 🧙
 
-- CSS ++
 - JavaScript +++
+- CSS ++
 - Vue ++
 - php +
 
-If you are searching for a Junior Webdeveloper or got other questions feel free to contact me.
+If you are searching for a Webdeveloper or got other questions feel free to contact me.
 
 [Contact Me](mailto:schnmart@hotmail.de)
 
