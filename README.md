@@ -1,48 +1,41 @@
+# ✨ Martin Schneider ✨
 
-# ✨Martin Schneider✨
+Hi there!  
+I'm currently sharpening my skills in **web development** 🧙‍♂️
 
-Hi there,
-Currently i am  working on my skills in Webdevelopment 🧙
+### 🚀 Tech Stack
+- **JavaScript** +++
+- **CSS** ++
+- **Vue.js** ++
+- **PHP** +
 
-- JavaScript +++
-- CSS ++
-- Vue ++
-- php +
+---
 
-If you are searching for a Webdeveloper or got other questions feel free to contact me.
+### 💼 What I'm working on
 
-[Contact Me](mailto:schnmart@hotmail.de)
+- Gamification features for websites 🎮  
+- A financial platform for friendly trades 💸
 
-At the moment i am working on some Gamification Features for Websites.
+---
 
-## Personal Stuff:
+### 📬 Contact
+
+If you're looking for a web developer, or just have some questions – feel free to [reach out!](mailto:schnmart@hotmail.de)
+
+---
+
+## 🎯 Personal Stuff
 
 <details>
-<summary>Hobbys</summary>
+<summary>🎾 Hobbies</summary>
 
--  Volleyball
--  Games
--  Swimming
+- Volleyball  
+- Gaming  
+- Swimming  
 </details>
 
 <details>
-  <summary>What im doing?</summary>
+<summary>🧠 What I'm up to</summary>
 
-  -  🌱 Webdevelopment
+- 🌱 Learning more about web development and modern frontend techniques  
 </details>
-
-
-<!--
-**MartinSchneidder/MartinSchneidder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
