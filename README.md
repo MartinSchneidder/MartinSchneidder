@@ -4,11 +4,13 @@ Hi there!
 I'm currently sharpening my skills in **web development** 🧙‍♂️
 
 ### 🚀 Tech Stack
-- **JavaScript** +++
-- **CSS** ++
-- **Vue.js** ++
-- **PHP** +
 
+|  Skill           |  Level                                                          | 
+| ---------------- | --------------------------------------------------------------- | 
+| **JavaScript**   | ![Star Rating](https://starrating-beta.vercel.app/5.0/?size=17) |
+| **Vue.js**       | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=17) |
+| **CSS**          | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=17) |
+| **PHP**          | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=17) |
 ---
 
 ### 💼 What I'm working on
