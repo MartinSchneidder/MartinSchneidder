@@ -1,30 +1,48 @@
-# ✨ Martin Schneider ✨
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Martin%20Schneider-Software%20Developer-blue?style=for-the-badge&logo=github" alt="Banner"><br>
+  <img src="https://komarev.com/ghpvc/?username=martinschneidder&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/martinschneidder?style=flat-square" alt="Followers">
+  <img src="https://img.shields.io/github/stars/martinschneidder?style=flat-square" alt="Stars">
+</p>
+<p align="center">
+  
+</p>
+<h1 align="center">Hi, I'm Martin Schneider</h1>
+<p align="center">Software Developer in training</p>
 
-Hi there!  
-I'm currently sharpening my skills in **web development** 🧙‍♂️
+
+
 
 ### 🚀 Tech Stack
 
 |  Skill           |  Level                                                          | 
 | ---------------- | --------------------------------------------------------------- | 
-| **JavaScript**   | ![Star Rating](https://starrating-beta.vercel.app/5.0/?size=17) |
-| **Vue.js**       | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=17) |
-| **CSS**          | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=17) |
-| **PHP**          | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=17) |
----
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)   | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=17) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)                  | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=17) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)               | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=17) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white)             | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=17) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)                     | ![Star Rating](https://starrating-beta.vercel.app/3.5/?size=17) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)                     | ![Star Rating](https://starrating-beta.vercel.app/2.5/?size=17) |
 
-### 💼 What I'm working on
+|  Tools           | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)|
+|---|---|
 
-- Gamification features for websites 🎮  
-- A financial platform for friendly trades 💸
+ 
+## Background
+- Training: **Software Development (FIAE)**  
+- Certificate: **Web Development** (JavaScript, Vue.js, HTML/CSS)  
+- Computer Science studies (not completed)
 
----
+## What I'm Working On
+- Practical projects from my software development training  
+- Web prototypes and small tools  
+- Strengthening backend fundamentals and architecture concepts  
 
-### 📬 Contact
+## 📬 Contact
+- **Email:** schnmart@hotmail.de  
+- **GitHub:** https://github.com/martinschneidder
 
-If you're looking for a web developer, or just have some questions – feel free to [reach out!](mailto:schnmart@hotmail.de)
-
----
 
 ## 🎯 Personal Stuff
 
