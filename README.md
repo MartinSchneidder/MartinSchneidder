@@ -14,7 +14,7 @@
 
 
 
-### 🚀 Tech Stack
+### Tech Stack
 
 |  Skill           |  Level                                                          | 
 | ---------------- | --------------------------------------------------------------- | 
@@ -47,7 +47,7 @@
 ## Personal Stuff
 
 <details>
-<summary>🎾 Hobbies</summary>
+<summary>Hobbies</summary>
 
 - Volleyball  
 - Gaming  
@@ -57,5 +57,5 @@
 <details>
 <summary>What I'm up to</summary>
 
-- 🌱 Learning more about web development and coding techniques  
+- Learning more about web development and coding techniques  
 </details>
