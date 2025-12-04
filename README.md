@@ -31,8 +31,8 @@
  
 ## Background
 - Training: **Software Development (FIAE)**  
-- Certificate: **Web Development** (JavaScript, Vue.js, HTML/CSS)  
-- Computer Science studies (not completed)
+- Bootcamp: **Web Development** (JavaScript, Vue.js, HTML/CSS)  
+- Studies: Computer Science (uncompleted)
 
 ## What I'm Working On
 - Practical projects from my software development training  
