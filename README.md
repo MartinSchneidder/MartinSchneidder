@@ -32,19 +32,19 @@
 ## Background
 - Training: **Software Development (FIAE)**  
 - Bootcamp: **Web Development** (JavaScript, Vue.js, HTML/CSS)  
-- Studies: Computer Science (uncompleted)
+- Studies: **Computer Science** (uncompleted)
 
 ## What I'm Working On
-- Practical projects from my software development training  
-- Web prototypes and small tools  
-- Strengthening backend fundamentals and architecture concepts  
+- Practical projects from my software development training
+- Web prototypes and small tools
+- Strengthening backend fundamentals and architecture concepts
 
-## 📬 Contact
+## Contact
 - **Email:** schnmart@hotmail.de  
 - **GitHub:** https://github.com/martinschneidder
 
 
-## 🎯 Personal Stuff
+## Personal Stuff
 
 <details>
 <summary>🎾 Hobbies</summary>
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-<summary>🧠 What I'm up to</summary>
+<summary>What I'm up to</summary>
 
-- 🌱 Learning more about web development and modern frontend techniques  
+- 🌱 Learning more about web development and coding techniques  
 </details>
