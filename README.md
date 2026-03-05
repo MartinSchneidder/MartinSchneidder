@@ -18,12 +18,14 @@
 
 |  Skill           |  Level                                                          | 
 | ---------------- | --------------------------------------------------------------- | 
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)   | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=17) |
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)                  | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=17) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)               | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=17) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white)             | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=17) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)                     | ![Star Rating](https://starrating-beta.vercel.app/3.5/?size=17) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)                     | ![Star Rating](https://starrating-beta.vercel.app/2.5/?size=17) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)   | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=20) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white)                  | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=20) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)               | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=20) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)             | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=20) |
+| ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css&logoColor=white)                     | ![Star Rating](https://starrating-beta.vercel.app/3.5/?size=20) |
+| ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=c&logoColor=white)                     | ![Star Rating](https://starrating-beta.vercel.app/2.5/?size=20) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)                      | ![Star Rating](https://starrating-beta.vercel.app/3.5/?size=20) |
+
 
 |  Tools           | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)|
 |---|---|
